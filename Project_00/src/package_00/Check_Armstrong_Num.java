@@ -1,6 +1,6 @@
 package package_00;
 
-public class Check_Armstrong 
+public class Check_Armstrong_Num 
 {
 	public static void main(String[] args) 
 	{
